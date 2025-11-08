@@ -157,6 +157,6 @@ For more help, please open an issue in the GitHub repository.
 
 ## 📫 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - Avi007-debug
 
-Project Link: [https://github.com/yourusername/auralog](https://github.com/yourusername/auralog)
+Project Link: https://github.com/egvsanthoshkumarcy24-glitch/AURALOG/edit/main/README.md
