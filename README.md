@@ -25,7 +25,7 @@ AuraLog is a modern web application for tracking your emotions and moods, provid
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/auralog.git
+git clone https://github.com/Avi007-debug/AURALOG
 cd auralog
 ```
 
